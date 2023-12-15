@@ -7,7 +7,7 @@ public class HollowRectangle {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the no:");
 		int i=sc.nextInt();
-		System.out.println("Enter other no:");
+		System.out.println("Enter otherrrr no:");
 		int j=sc.nextInt();
 		System.out.println();
 		
